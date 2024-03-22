@@ -6,8 +6,8 @@ Hi, I'm SFINXVC, and this is my GitHub page, where you can find most of the stuf
 - Email: sfinxv.cc@gmail.com
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFINXVC&layout=compact" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFINXVC&layout=compact&theme-tokyonight" width="333" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SFINXVC&layout=compact" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SFINXVC&layout=compact&theme=tokyonight" width="400" />
 </a>
