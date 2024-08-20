@@ -1,5 +1,7 @@
 ### Welcome to the `SFINXVC` GitHub page! 👋
 
+![](https://komarev.com/ghpvc/?username=SFINXVC)
+
 <!--START_SECTION:waka-->
 
 ```txt
