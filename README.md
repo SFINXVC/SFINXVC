@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 744 hrs
+Total Time: 744 hrs 1 min
 
 C++               235 hrs 21 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.37 %
 Rust              134 hrs 25 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.92 %
